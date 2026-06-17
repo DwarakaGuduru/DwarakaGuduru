@@ -7,7 +7,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dwarakaguduru.netlify.app-5d8ef0?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-dwarakaguduru.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dwarakag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwarakag/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dwarakag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwarakaguduru/)
 [![Gmail](https://img.shields.io/badge/Gmail-dwaraka1155-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwaraka1155@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DwarakaGuduru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwarakaGuduru)
 [![Location](https://img.shields.io/badge/Cincinnati%2C_OH-Open_to_Work-2ea44f?style=for-the-badge)](#)
