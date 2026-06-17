@@ -6,11 +6,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dwaraka--portfolio.vercel.app-5d8ef0?style=for-the-badge&logo=vercel&logoColor=white)](https://dwaraka-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dwarakag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwarakaguduru/)
-[![Gmail](https://img.shields.io/badge/Gmail-dwaraka1155-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwaraka1155@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DwarakaGuduru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwarakaGuduru)
-[![Location](https://img.shields.io/badge/Cincinnati%2C_OH-Open_to_Work-2ea44f?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5d8ef0?style=for-the-badge&logo=vercel&logoColor=white)](https://dwaraka-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwarakaguduru/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwaraka1155@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwarakaGuduru)
+[![Location](https://img.shields.io/badge/Cincinnati%2C_OH-2ea44f?style=for-the-badge)](#)
 
 </div>
 
